@@ -1,8 +1,8 @@
 # MyResume
 ### Persnal Details
 -Name:Annapurna B <br>
--Mail id: ramanjaneyulu333@gmail.com
--Phone no:+9618718572
+-Mail id: ramanjaneyulu333@gmail.com <br>
+-Phone no:+9618718572 <br>
 -Address :Sattenapalli<br>
 
 ### **Education Details**
